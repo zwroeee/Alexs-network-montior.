@@ -1,3 +1,5 @@
+![Capture5](https://github.com/user-attachments/assets/49575ea0-702a-48cd-a713-b1875ee273f5)
+![Captur2](https://github.com/user-attachments/assets/21d850c8-178e-4197-9129-3595290e92dd)
 ```markdown
 # Network Monitor
 
