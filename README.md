@@ -1,5 +1,4 @@
-![Capture5](https://github.com/user-attachments/assets/49575ea0-702a-48cd-a713-b1875ee273f5)
-![Captur2](https://github.com/user-attachments/assets/21d850c8-178e-4197-9129-3595290e92dd)
+
 ```markdown
 # Network Monitor
 
@@ -9,7 +8,7 @@ Welcome to my **Network Monitor** application! This is a Python-based network mo
 
 - **Monitor Network Traffic**: Easily track the number of bytes sent and received over time.
 - **Graphical Visualization**: View network activity in real-time graphs to understand your network usage better.
-- **Top Talkers**: Identify which processes are the biggest consumers of bandwidth.
+- **Top Talkers**: Identify which! processes are the biggest consumers of bandwidth.
 - **Customizable Monitoring Interval**: Adjust the frequency of monitoring through an easy-to-use configuration panel.
 - **Theme Toggle**: Switch between light and dark modes to suit your preferences.
 - **Log Export**: Automatically saves network activity to a CSV file for your records.
@@ -75,7 +74,8 @@ cd dist
 4. Click **Show Graph** to visualize how your network usage changes over time.
 5. Use **Show Top Talkers** to see which processes are using the most bandwidth.
 6. Feel free to adjust the monitoring interval in the **Configuration** panel to suit your needs.
-
+![Capture5](https://github.com/user-attachments/assets/49575ea0-702a-48cd-a713-b1875ee273f5)
+![Captur2](https://github.com/user-attachments/assets/21d850c8-178e-4197-9129-3595290e92dd)
 ## Contributing
 
 If you have ideas for enhancements or new features, don’t hesitate to open an issue or submit a pull request.
